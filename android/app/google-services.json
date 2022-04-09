@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422675635690",
+    "project_id": "to-do-66fa3",
+    "storage_bucket": "to-do-66fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422675635690:android:769eb30d42c78bdca2e693",
+        "android_client_info": {
+          "package_name": "com.rishi.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422675635690-vr3ri4qja4i3hvq2l81ed5o2rmebd6p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishi.task",
+            "certificate_hash": "4da7d8147e0c68a06be6258ee1750b33ccfd7a0a"
+          }
+        },
+        {
+          "client_id": "422675635690-humb261ot8dls7bceq3efu93n774730c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSBFVXWlahZQSrbvGTVWNH9zR_PnbzJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422675635690-humb261ot8dls7bceq3efu93n774730c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
